@@ -1,7 +1,7 @@
 {
-    "name": "eslint-config-anders",
-    "version": "0.0.0",
-    "description": "ESLint settings for Anders",
-    "main": "index.js",
-    "repository": "Andersos/eslint-config-anders"
+  "name": "eslint-config-anders",
+  "version": "0.0.1",
+  "description": "ESLint settings for Anders",
+  "main": "index.js",
+  "repository": "Andersos/eslint-config-anders"
 }
