@@ -2,6 +2,14 @@
   "name": "eslint-config-anders",
   "version": "0.0.1",
   "description": "ESLint settings for Anders",
+  "license": "MIT",
   "main": "index.js",
-  "repository": "Andersos/eslint-config-anders"
+  "repository": "Andersos/eslint-config-anders",
+  "scripts": {
+    "postversion": "git push --tags origin master",
+    "test": "eslint ."
+  },
+  "dependencies": {
+    "eslint-config-andersos": "^0.2.0"
+  }
 }

@@ -6,6 +6,5 @@ Anders eslint configs
 ```bash
 Update CHANGELOG
 $ npm version <patch | minor | major>
-$ git push --tags origin master
 $ npm publish
 ```

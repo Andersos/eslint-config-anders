@@ -1,1 +1,1 @@
-throw new Error("This project is a placeholder for now");
+module.export = require('eslint-config-andersos');
