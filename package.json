@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-anders",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ESLint settings for Anders",
   "license": "MIT",
   "main": "index.js",
